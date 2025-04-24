@@ -1,7 +1,7 @@
 package lab2;
 
 /**
- * Hello world!
+ * Hello world! //changes here name Chaagaa
  *
  */
 public class App 
